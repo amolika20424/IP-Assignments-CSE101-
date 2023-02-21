@@ -1,1 +1,1 @@
-# Ip Assignments (CSE101)
+# IP Assignments (CSE101)
